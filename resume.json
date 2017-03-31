@@ -77,6 +77,17 @@
       ]
     }
   ],
+  "volunteer": [{
+    "organization": "National Chung Cheng University",
+    "position": "Speaker",
+    "website": "http://weic.tw/",
+    "startDate": "2016-05-14",
+    "endDate": "2016-05-14",
+    "summary": "Gave a talk on how to build web apps with functional programming language ELM",
+    "highlights": [
+      "Live demo without failing, yay!"
+    ]
+  }],
   "education": [
     {
       "institution": "University of Victoria",
