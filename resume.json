@@ -1,0 +1,164 @@
+{
+  "basics": {
+    "name": "Howard Chang",
+    "label": "Software Engineer",
+    "picture": "https://avatars3.githubusercontent.com/u/7846583?v=3&u=0e9b287e58beead649603cac15aeff05cdf3bdb7&s=400",
+    "email": "howard3433@gmail.com",
+    "phone": "(604)275-1347",
+    "website": "https://rhadow.github.io",
+    "summary": "I am a frontend developer aiming to become a true software engineer and loves coding a lot. While my work focuses on frontend engineering, mostly building SPA with JavaScript, my non work interests range widely. By spending free time learning other computer science related subjects such as machine learning and algorithms, my interest into computer just keep deepening. Building small tools which makes my life easier is also something I love to do on weekend. I am a Canadian citizen living in Taiwan and actively looking for developer positions in North America.",
+    "location": {
+      "address": "#275 8160 Williams Road",
+      "postalCode": "V7A 1G5",
+      "city": "Vancouver",
+      "countryCode": "CA",
+      "region": "British Columbia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Howard Chang",
+        "url": "https://www.linkedin.com/in/howardcha/"
+      },
+      {
+        "network": "Github",
+        "username": "rhadow",
+        "url": "https://github.com/Rhadow"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Honest Bee",
+      "position": "Software Engineer (Frontend)",
+      "website": "https://honestbee.sg/",
+      "startDate": "2016-11-21",
+      "summary": "",
+      "highlights": [
+        "Refactored front end architecture to make the system more flexible for future extenstions",
+        "Acted as team representative to communicate with other colleagues in Singapore HQ"
+      ]
+    },
+    {
+      "company": "FullInn",
+      "position": "Senior Software Engineer",
+      "website": "https://room.fullinn.tw/",
+      "startDate": "2016-09-01",
+      "summary": "",
+      "highlights": [
+        "Built backend service using NodeJS, MongoDB and GraphQL independently",
+        "Provided suggestion on front end structure to boost performance effectively"
+      ]
+    },
+    {
+      "company": "A10 Networks",
+      "position": "Software Engineer",
+      "website": "https://www.a10networks.com/",
+      "startDate": "2015-08-24",
+      "endDate": "2016-11-18",
+      "summary": "",
+      "highlights": [
+        "Participated in a scrum team and built a modern front end architecture from ground up with React.js, ES2015, Redux, Node and RethinkDB for internal system and newer projects",
+        "Collaborated with global team members to maintain and develop new features for AX series projects which intelligently monitor and manage several networking devices with robust and efficient performance with Python/Django and AngularJS",
+        "Implemented object group service feature and participated in designing the graphical user interface and built searching and filtering function for IP lists to enhance user experience"
+      ]
+    },
+    {
+      "company": "Doggy Digital Creative Inc",
+      "position": "Frontend Engineer",
+      "website": "http://www.miniasp.com/",
+      "startDate": "2014-10-13",
+      "endDate": "2015-08-14",
+      "summary": "",
+      "highlights": [
+        "Wrote client-side code for web-based applications using AngularJS and ReactJS",
+        "Contributed to CRM project using ReactJS and Reflux at MIGOCorp as onsite engineer which accelerated the progression on product development",
+        "Created an application using AngularJS and C3.js to monitor the attendance and accomplishments of each councilors in Taiwan"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Victoria",
+      "area": "Electrical and Electronics Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2010-01-04",
+      "endDate": "2014-09-01"
+    },
+    {
+      "institution": "British Columbia Institute of Technology",
+      "area": "Electrical and Computer Engineering",
+      "studyType": "Diploma",
+      "startDate": "2007-09-03",
+      "endDate": "2009-06-19"
+    }
+  ],
+  "awards": [
+    {
+      "title": "2015 NTU Hackathon VR-Wood Enterprise Award",
+      "date": "2015-08-23",
+      "awarder": "2015 NTU Hackathon",
+      "summary": "During a 3 day hackathon event hosted by NTU, I created a virtual user interface which surrounds the user with various windows in a team of four. Each window will be activated only when the user is looking at it and deactivated otherwise"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frontend Development",
+      "level": "Proficient",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript/ES2015",
+        "ReactJS",
+        "Redux"
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "level": "Proficient",
+      "keywords": [
+        "NodeJS",
+        "MongoDB",
+        "Python",
+        "GraphQL"
+      ]
+    },
+    {
+      "name": "General Knowledge",
+      "level": "Proficient",
+      "keywords": [
+        "Linux",
+        "Git"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "level": "Full professional proficiency"
+    },
+    {
+      "name": "Chinese",
+      "level": "Native proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Programming",
+      "keywords": [
+        "Robot",
+        "Tools",
+        "Machine Learning",
+        "Algorithms",
+        "Information Security"
+      ]
+    },
+    {
+      "name": "Games",
+      "keywords": [
+        "Board Games",
+        "RPG"
+      ]
+    }
+  ]
+}
